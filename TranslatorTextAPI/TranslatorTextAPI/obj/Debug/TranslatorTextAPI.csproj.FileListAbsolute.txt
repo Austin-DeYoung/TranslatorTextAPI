@@ -1,0 +1,13 @@
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.exe.config
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.exe
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.pdb
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.csprojResolveAssemblyReference.cache
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.csproj.CoreCompileInputs.cache
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.exe
+C:\Users\Austin D\Desktop\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.pdb
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.exe.config
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.exe
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\bin\Debug\TranslatorTextAPI.pdb
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.csprojAssemblyReference.cache
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.exe
+C:\Users\austi\OneDrive\Desktop\GitHubProjects\TranslatorTextAPI\TranslatorTextAPI\obj\Debug\TranslatorTextAPI.pdb
